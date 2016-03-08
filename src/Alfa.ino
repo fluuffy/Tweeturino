@@ -5,7 +5,7 @@
 // Alter IP address to suit your own network!
 byte mac[] = {   0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED }; // create MAC address for ethernet shield
 byte ip[] = {   192, 168, 0, 8}; // choose your own IP for ethernet shield
-Twitter twitter("1330657854-1lsI6hP3qGuy0hVKpaDm6hK7DM9B5OS3f3J7RrH"); // replace aaaaaaa with your token
+Twitter twitter("aaaaaa"); // replace aaaaaaa with your token
  
 void setup()
 {
